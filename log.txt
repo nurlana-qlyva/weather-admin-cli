@@ -1,0 +1,7 @@
+Name: Jerome Location: Oakland,CA Date: 02-15-2018
+Name: Amber Location: Arcata,CA Date: 02-15-2018
+Name: Garrett Location: Eureka,CA Date: 02-15-2018
+Name: Jordan Location: Redding,CA Date: 02-15-2018
+Name: Sasha Location: Shasta,CA Date: 02-15-2018
+Name: Anna Location: Boulder,CO Date: 02-15-2018
+Name: Joyce Location: Seattle,WA Date: 02-15-2018
